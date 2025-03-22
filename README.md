@@ -1,0 +1,2 @@
+# Frequency-Modulation-Tx-Rx-using-USRP
+Real-time FM transmission &amp; reception with USRP &amp; MATLAB.  Features  Transmit &amp; receive FM signals  Adjustable frequency &amp; gain  Audio playback  Requirements  MATLAB &amp; USRP B210  Antenna &amp; audio source  Usage  Run fm_transmitter.m to send audio.  Run fm_receiver.m to receive &amp; play audio.  Applications  Wireless audio streaming  SDR learning
