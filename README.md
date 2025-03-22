@@ -1,3 +1,9 @@
+Project done by:
+Mr. KUMMARAI SIDDARTHA
+Mr. YATA RUPESH
+Mr. RAMAVATH ADITHYA
+
+
 # 'Frequency Modulation Tx-Rx using USRP'
 
 This project implements a Frequency Modulation (FM) Transmitter-Receiver system using a USRP (Universal Software Radio Peripheral) with MATLAB and UHD. The setup enables real-time transmission and reception of FM signals, demonstrating SDR (Software-Defined Radio) capabilities for wireless communication experiments.
